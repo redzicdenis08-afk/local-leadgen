@@ -1,0 +1,80 @@
+{
+  "entry": {
+    "serviceSlug": "window-cleaning",
+    "citySlug": "greenville",
+    "path": "/window-cleaning/greenville",
+    "canonicalUrl": "https://example.com/window-cleaning/greenville",
+    "title": "Window Cleaning in Greenville, SC | Free Local Quotes",
+    "metaDescription": "Get matched with window cleaning help in Greenville, South Carolina. One short form, typical pricing $150–$600, reviewed the same business day.",
+    "h1": "Window Cleaning in Greenville, SC",
+    "templateIds": {
+      "title": 0,
+      "meta": 5,
+      "h1": 0
+    },
+    "keywords": [
+      "window cleaning",
+      "window washing",
+      "residential window cleaning"
+    ]
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "heading": "Window Cleaning in Greenville, SC",
+      "paragraphs": [
+        "If you are comparing window cleaning options in Greenville, South Carolina, this page is built for you. Hard-water spots etch into glass if left through more than one season. Typical Greenville jobs run $150 to $600, and a quote request takes about thirty seconds."
+      ]
+    },
+    {
+      "id": "service-details",
+      "heading": "What Window Cleaning in Greenville Involves",
+      "paragraphs": [
+        "Interior and exterior window washing, including screens, tracks, and hard-water spot removal. In Greenville, the final price depends on property size, condition, and access — the $150–$600 band covers the large majority of local jobs."
+      ],
+      "items": [
+        "window cleaning in Greenville, SC",
+        "window washing in Greenville, SC",
+        "residential window cleaning in Greenville, SC"
+      ]
+    },
+    {
+      "id": "local-trust",
+      "heading": "Local to Greenville, South Carolina",
+      "paragraphs": [
+        "This service covers Greenville and the surrounding South Carolina area, including Mauldin, Simpsonville, Taylors. Humid summers accelerate mildew growth on north-facing siding."
+      ],
+      "items": [
+        "Serving a community of 72,000 residents",
+        "Typical Greenville pricing shown before you submit ($150–$600)",
+        "Free quote request, no commitment"
+      ]
+    },
+    {
+      "id": "faq",
+      "heading": "Window Cleaning in Greenville: Common Questions",
+      "faqs": [
+        {
+          "question": "Am I committing to anything by requesting a quote?",
+          "answer": "No. A quote request is free and carries no obligation. You compare the quote, ask questions, and decide your own timeline — or walk away."
+        },
+        {
+          "question": "How much does window cleaning cost in Greenville?",
+          "answer": "Most Greenville homes fall in the $150–$600 range. The exact number depends on property size, condition, and access, so a quote request gets you a real figure instead of a national average."
+        },
+        {
+          "question": "How fast will someone contact me in Greenville?",
+          "answer": "Requests are reviewed and routed the same business day. A local window cleaning provider covering Greenville typically reaches out within one business day."
+        },
+        {
+          "question": "Is this site the company doing the work?",
+          "answer": "No — this is a quote-request service. It connects Greenville homeowners with an independent local provider. Scheduling, pricing, insurance, and the work itself are handled by that provider, and you can verify their credentials before committing."
+        },
+        {
+          "question": "What areas around Greenville are covered?",
+          "answer": "Coverage centers on Greenville, South Carolina, including Mauldin, Simpsonville, Taylors. If your address is outside the area, you are told up front instead of having your details passed around."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "channel": "form",
+  "serviceSlug": "gutter-cleaning",
+  "citySlug": "franklin",
+  "name": "Sam Example",
+  "phone": "(555) 010-4477",
+  "email": "sam@example.com",
+  "message": "Two-story house in Westhaven, gutters have not been cleaned since we moved in last fall.",
+  "capturedAt": "2026-07-01T14:30:00Z"
+}

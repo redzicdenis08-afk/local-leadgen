@@ -1,0 +1,142 @@
+{
+  "site": {
+    "baseUrl": "https://example.com",
+    "name": "Hometown Exterior Quotes",
+    "phone": "+1-555-0100"
+  },
+  "services": [
+    {
+      "name": "Window Cleaning",
+      "description": "Interior and exterior window washing, including screens, tracks, and hard-water spot removal.",
+      "priceLow": 150,
+      "priceHigh": 600,
+      "keywords": ["window cleaning", "window washing", "residential window cleaning"],
+      "facts": [
+        "Hard-water spots etch into glass if left through more than one season.",
+        "Second-story windows are the most common ladder-injury job homeowners attempt themselves."
+      ]
+    },
+    {
+      "name": "Pressure Washing",
+      "description": "Driveway, siding, deck, and concrete cleaning using pressure or soft-wash methods matched to the surface.",
+      "priceLow": 200,
+      "priceHigh": 900,
+      "keywords": ["pressure washing", "power washing", "driveway cleaning"],
+      "facts": [
+        "Soft washing cleans siding at low pressure so the surface is never damaged.",
+        "Algae on shaded concrete becomes a slip hazard within a single wet season."
+      ]
+    },
+    {
+      "name": "Gutter Cleaning",
+      "description": "Gutter and downspout clearing, flush testing, and minor realignment to keep water away from the foundation.",
+      "priceLow": 120,
+      "priceHigh": 450,
+      "keywords": ["gutter cleaning", "gutter clearing", "downspout cleaning"],
+      "facts": [
+        "Clogged gutters overflow at the foundation, the most expensive place for water to go.",
+        "Most gutter damage happens in the first freeze after a leaf-filled autumn."
+      ]
+    }
+  ],
+  "cities": [
+    {
+      "name": "Springfield",
+      "state": "IL",
+      "stateName": "Illinois",
+      "population": 114000,
+      "facts": [
+        "Freeze-thaw winters here are hard on concrete and gutters alike.",
+        "Mature tree cover across town keeps gutters filling from September through November."
+      ],
+      "neighborhoods": ["Westchester", "Lincoln Park"],
+      "nearbyCities": ["Chatham", "Sherman", "Rochester"],
+      "lat": 39.7817,
+      "lng": -89.6501
+    },
+    {
+      "name": "Fairview",
+      "state": "OR",
+      "stateName": "Oregon",
+      "population": 10500,
+      "facts": [
+        "Long wet seasons make moss and algae a year-round exterior problem.",
+        "Most homes here see 40+ inches of rain a year."
+      ],
+      "neighborhoods": ["Old Town", "Lakeshore"],
+      "nearbyCities": ["Troutdale", "Wood Village", "Gresham"]
+    },
+    {
+      "name": "Franklin",
+      "state": "TN",
+      "stateName": "Tennessee",
+      "population": 85000,
+      "facts": [
+        "Pollen season leaves a visible yellow film on windows and siding every spring.",
+        "Rapid new construction means many homes are on their first maintenance cycle."
+      ],
+      "neighborhoods": ["Westhaven", "Cool Springs"],
+      "nearbyCities": ["Brentwood", "Spring Hill", "Nolensville"]
+    },
+    {
+      "name": "Greenville",
+      "state": "SC",
+      "stateName": "South Carolina",
+      "population": 72000,
+      "facts": [
+        "Humid summers accelerate mildew growth on north-facing siding.",
+        "Red-clay dust is the most common driveway stain in the area."
+      ],
+      "neighborhoods": ["North Main", "Augusta Road"],
+      "nearbyCities": ["Mauldin", "Simpsonville", "Taylors"]
+    },
+    {
+      "name": "Bristol",
+      "state": "CT",
+      "stateName": "Connecticut",
+      "population": 61000,
+      "facts": [
+        "New England winters mean ice dams for any house with a clogged gutter.",
+        "Older housing stock here often has original single-pane windows worth protecting."
+      ],
+      "neighborhoods": ["Federal Hill", "Forestville"],
+      "nearbyCities": ["Plainville", "Terryville", "Burlington"]
+    }
+  ],
+  "routing": [
+    {
+      "id": "springfield-pro-exteriors",
+      "businessName": "Springfield Pro Exteriors",
+      "contactEmail": "leads@springfield-pro.example.com",
+      "serviceSlugs": ["window-cleaning", "pressure-washing"],
+      "citySlugs": ["springfield"],
+      "priority": 10
+    },
+    {
+      "id": "franklin-gutter-co",
+      "businessName": "Franklin Gutter Co.",
+      "contactEmail": "office@franklin-gutter.example.com",
+      "serviceSlugs": ["gutter-cleaning"],
+      "citySlugs": ["franklin", "greenville"],
+      "priority": 10
+    },
+    {
+      "id": "statewide-wash-network",
+      "businessName": "Statewide Wash Network",
+      "contactEmail": "dispatch@statewide-wash.example.com",
+      "serviceSlugs": ["pressure-washing"],
+      "citySlugs": ["*"],
+      "priority": 50
+    },
+    {
+      "id": "paused-renter",
+      "businessName": "Paused Renter LLC",
+      "contactEmail": "old@paused.example.com",
+      "serviceSlugs": ["*"],
+      "citySlugs": ["*"],
+      "priority": 1,
+      "active": false
+    }
+  ],
+  "fallbackEmail": "unrouted-leads@example.com"
+}

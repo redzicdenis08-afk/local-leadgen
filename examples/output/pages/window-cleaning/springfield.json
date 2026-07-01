@@ -1,0 +1,80 @@
+{
+  "entry": {
+    "serviceSlug": "window-cleaning",
+    "citySlug": "springfield",
+    "path": "/window-cleaning/springfield",
+    "canonicalUrl": "https://example.com/window-cleaning/springfield",
+    "title": "Window Cleaning Springfield IL: Get a Same-Day Quote",
+    "metaDescription": "Springfield homeowners: get window cleaning quotes without the phone-tag. Local pricing runs $150–$600. Free, fast, no obligation.",
+    "h1": "Get Window Cleaning Pricing in Springfield, Illinois",
+    "templateIds": {
+      "title": 2,
+      "meta": 3,
+      "h1": 3
+    },
+    "keywords": [
+      "window cleaning",
+      "window washing",
+      "residential window cleaning"
+    ]
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "heading": "Get Window Cleaning Pricing in Springfield, Illinois",
+      "paragraphs": [
+        "If you are comparing window cleaning options in Springfield, Illinois, this page is built for you. Hard-water spots etch into glass if left through more than one season. Typical Springfield jobs run $150 to $600, and a quote request takes about thirty seconds."
+      ]
+    },
+    {
+      "id": "service-details",
+      "heading": "What Window Cleaning in Springfield Involves",
+      "paragraphs": [
+        "Interior and exterior window washing, including screens, tracks, and hard-water spot removal. Most Springfield homeowners pay between $150 and $600; larger properties or heavy buildup push toward the top of the range."
+      ],
+      "items": [
+        "window cleaning in Springfield, IL",
+        "window washing in Springfield, IL",
+        "residential window cleaning in Springfield, IL"
+      ]
+    },
+    {
+      "id": "local-trust",
+      "heading": "Local to Springfield, Illinois",
+      "paragraphs": [
+        "Requests from Springfield (Westchester, Lincoln Park and beyond) are matched to providers who actually work in the area, including Chatham, Sherman, Rochester. Freeze-thaw winters here are hard on concrete and gutters alike."
+      ],
+      "items": [
+        "Serving a community of 114,000 residents",
+        "Typical Springfield pricing shown before you submit ($150–$600)",
+        "Free quote request, no commitment"
+      ]
+    },
+    {
+      "id": "faq",
+      "heading": "Window Cleaning in Springfield: Common Questions",
+      "faqs": [
+        {
+          "question": "Is this site the company doing the work?",
+          "answer": "No — this is a quote-request service. It connects Springfield homeowners with an independent local provider. Scheduling, pricing, insurance, and the work itself are handled by that provider, and you can verify their credentials before committing."
+        },
+        {
+          "question": "What areas around Springfield are covered?",
+          "answer": "Coverage centers on Springfield, Illinois, including Chatham, Sherman, Rochester. If your address is outside the area, you are told up front instead of having your details passed around."
+        },
+        {
+          "question": "Am I committing to anything by requesting a quote?",
+          "answer": "No. A quote request is free and carries no obligation. You compare the quote, ask questions, and decide your own timeline — or walk away."
+        },
+        {
+          "question": "How much does window cleaning cost in Springfield?",
+          "answer": "Most Springfield homes fall in the $150–$600 range. The exact number depends on property size, condition, and access, so a quote request gets you a real figure instead of a national average."
+        },
+        {
+          "question": "How fast will someone contact me in Springfield?",
+          "answer": "Requests are reviewed and routed the same business day. A local window cleaning provider covering Springfield typically reaches out within one business day."
+        }
+      ]
+    }
+  ]
+}

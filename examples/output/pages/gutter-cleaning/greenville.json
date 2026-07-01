@@ -1,0 +1,80 @@
+{
+  "entry": {
+    "serviceSlug": "gutter-cleaning",
+    "citySlug": "greenville",
+    "path": "/gutter-cleaning/greenville",
+    "canonicalUrl": "https://example.com/gutter-cleaning/greenville",
+    "title": "Greenville, SC Gutter Cleaning Quotes | No-Commitment Estimates",
+    "metaDescription": "Free gutter cleaning quote requests for Greenville, SC. Most gutter damage happens in the first freeze after a leaf-filled autumn. Typical range $120–$450.",
+    "h1": "Gutter Cleaning Quotes for Greenville Homeowners",
+    "templateIds": {
+      "title": 5,
+      "meta": 4,
+      "h1": 1
+    },
+    "keywords": [
+      "gutter cleaning",
+      "gutter clearing",
+      "downspout cleaning"
+    ]
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "heading": "Gutter Cleaning Quotes for Greenville Homeowners",
+      "paragraphs": [
+        "Homeowners across Greenville, SC use this page to request gutter cleaning quotes without pressure or spam. Red-clay dust is the most common driveway stain in the area. Expect quotes in the $120–$450 range for most jobs."
+      ]
+    },
+    {
+      "id": "service-details",
+      "heading": "What Gutter Cleaning in Greenville Involves",
+      "paragraphs": [
+        "Gutter and downspout clearing, flush testing, and minor realignment to keep water away from the foundation. Pricing in Greenville, South Carolina typically falls between $120 and $450. A quick walkthrough or photos are usually enough for an accurate quote."
+      ],
+      "items": [
+        "gutter cleaning in Greenville, SC",
+        "gutter clearing in Greenville, SC",
+        "downspout cleaning in Greenville, SC"
+      ]
+    },
+    {
+      "id": "local-trust",
+      "heading": "Local to Greenville, South Carolina",
+      "paragraphs": [
+        "Requests from Greenville (North Main, Augusta Road and beyond) are matched to providers who actually work in the area, including Mauldin, Simpsonville, Taylors. Red-clay dust is the most common driveway stain in the area."
+      ],
+      "items": [
+        "Serving a community of 72,000 residents",
+        "Typical Greenville pricing shown before you submit ($120–$450)",
+        "Free quote request, no commitment"
+      ]
+    },
+    {
+      "id": "faq",
+      "heading": "Gutter Cleaning in Greenville: Common Questions",
+      "faqs": [
+        {
+          "question": "Am I committing to anything by requesting a quote?",
+          "answer": "No. A quote request is free and carries no obligation. You compare the quote, ask questions, and decide your own timeline — or walk away."
+        },
+        {
+          "question": "How much does gutter cleaning cost in Greenville?",
+          "answer": "Most Greenville homes fall in the $120–$450 range. The exact number depends on property size, condition, and access, so a quote request gets you a real figure instead of a national average."
+        },
+        {
+          "question": "How fast will someone contact me in Greenville?",
+          "answer": "Requests are reviewed and routed the same business day. A local gutter cleaning provider covering Greenville typically reaches out within one business day."
+        },
+        {
+          "question": "Is this site the company doing the work?",
+          "answer": "No — this is a quote-request service. It connects Greenville homeowners with an independent local provider. Scheduling, pricing, insurance, and the work itself are handled by that provider, and you can verify their credentials before committing."
+        },
+        {
+          "question": "What areas around Greenville are covered?",
+          "answer": "Coverage centers on Greenville, South Carolina, including Mauldin, Simpsonville, Taylors. If your address is outside the area, you are told up front instead of having your details passed around."
+        }
+      ]
+    }
+  ]
+}

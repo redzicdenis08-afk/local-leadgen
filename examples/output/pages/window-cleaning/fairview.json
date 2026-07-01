@@ -1,0 +1,80 @@
+{
+  "entry": {
+    "serviceSlug": "window-cleaning",
+    "citySlug": "fairview",
+    "path": "/window-cleaning/fairview",
+    "canonicalUrl": "https://example.com/window-cleaning/fairview",
+    "title": "Residential Window Cleaning in Fairview, Oregon — Request a Free Quote",
+    "metaDescription": "Fairview homeowners: get window cleaning quotes without the phone-tag. Local pricing runs $150–$600. Free, fast, no obligation.",
+    "h1": "Fairview Window Cleaning: Free Local Quotes",
+    "templateIds": {
+      "title": 4,
+      "meta": 3,
+      "h1": 2
+    },
+    "keywords": [
+      "window cleaning",
+      "window washing",
+      "residential window cleaning"
+    ]
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "heading": "Fairview Window Cleaning: Free Local Quotes",
+      "paragraphs": [
+        "Fairview is home to 10,500 people, and demand for window cleaning here is steady year-round. Hard-water spots etch into glass if left through more than one season. Local pricing usually lands between $150 and $600 depending on scope."
+      ]
+    },
+    {
+      "id": "service-details",
+      "heading": "What Window Cleaning in Fairview Involves",
+      "paragraphs": [
+        "Interior and exterior window washing, including screens, tracks, and hard-water spot removal. Pricing in Fairview, Oregon typically falls between $150 and $600. A quick walkthrough or photos are usually enough for an accurate quote."
+      ],
+      "items": [
+        "window cleaning in Fairview, OR",
+        "window washing in Fairview, OR",
+        "residential window cleaning in Fairview, OR"
+      ]
+    },
+    {
+      "id": "local-trust",
+      "heading": "Local to Fairview, Oregon",
+      "paragraphs": [
+        "Requests from Fairview (Old Town, Lakeshore and beyond) are matched to providers who actually work in the area, including Troutdale, Wood Village, Gresham. Long wet seasons make moss and algae a year-round exterior problem."
+      ],
+      "items": [
+        "Serving a community of 10,500 residents",
+        "Typical Fairview pricing shown before you submit ($150–$600)",
+        "Free quote request, no commitment"
+      ]
+    },
+    {
+      "id": "faq",
+      "heading": "Window Cleaning in Fairview: Common Questions",
+      "faqs": [
+        {
+          "question": "What areas around Fairview are covered?",
+          "answer": "Coverage centers on Fairview, Oregon, including Troutdale, Wood Village, Gresham. If your address is outside the area, you are told up front instead of having your details passed around."
+        },
+        {
+          "question": "Am I committing to anything by requesting a quote?",
+          "answer": "No. A quote request is free and carries no obligation. You compare the quote, ask questions, and decide your own timeline — or walk away."
+        },
+        {
+          "question": "How much does window cleaning cost in Fairview?",
+          "answer": "Most Fairview homes fall in the $150–$600 range. The exact number depends on property size, condition, and access, so a quote request gets you a real figure instead of a national average."
+        },
+        {
+          "question": "How fast will someone contact me in Fairview?",
+          "answer": "Requests are reviewed and routed the same business day. A local window cleaning provider covering Fairview typically reaches out within one business day."
+        },
+        {
+          "question": "Is this site the company doing the work?",
+          "answer": "No — this is a quote-request service. It connects Fairview homeowners with an independent local provider. Scheduling, pricing, insurance, and the work itself are handled by that provider, and you can verify their credentials before committing."
+        }
+      ]
+    }
+  ]
+}

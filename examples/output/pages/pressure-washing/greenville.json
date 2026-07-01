@@ -1,0 +1,80 @@
+{
+  "entry": {
+    "serviceSlug": "pressure-washing",
+    "citySlug": "greenville",
+    "path": "/pressure-washing/greenville",
+    "canonicalUrl": "https://example.com/pressure-washing/greenville",
+    "title": "Greenville, SC Pressure Washing Quotes | No-Commitment Estimates",
+    "metaDescription": "Looking for power washing in Greenville? Serving a community of 72,000 residents with transparent $200–$900 pricing and free quotes.",
+    "h1": "Pressure Washing in Greenville — Compare Local Options",
+    "templateIds": {
+      "title": 5,
+      "meta": 2,
+      "h1": 4
+    },
+    "keywords": [
+      "pressure washing",
+      "power washing",
+      "driveway cleaning"
+    ]
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "heading": "Pressure Washing in Greenville — Compare Local Options",
+      "paragraphs": [
+        "Homeowners across Greenville, SC use this page to request pressure washing quotes without pressure or spam. Red-clay dust is the most common driveway stain in the area. Expect quotes in the $200–$900 range for most jobs."
+      ]
+    },
+    {
+      "id": "service-details",
+      "heading": "What Pressure Washing in Greenville Involves",
+      "paragraphs": [
+        "Driveway, siding, deck, and concrete cleaning using pressure or soft-wash methods matched to the surface. Most Greenville homeowners pay between $200 and $900; larger properties or heavy buildup push toward the top of the range."
+      ],
+      "items": [
+        "pressure washing in Greenville, SC",
+        "power washing in Greenville, SC",
+        "driveway cleaning in Greenville, SC"
+      ]
+    },
+    {
+      "id": "local-trust",
+      "heading": "Local to Greenville, South Carolina",
+      "paragraphs": [
+        "Requests from Greenville (North Main, Augusta Road and beyond) are matched to providers who actually work in the area, including Mauldin, Simpsonville, Taylors. Red-clay dust is the most common driveway stain in the area."
+      ],
+      "items": [
+        "Serving a community of 72,000 residents",
+        "Typical Greenville pricing shown before you submit ($200–$900)",
+        "Free quote request, no commitment"
+      ]
+    },
+    {
+      "id": "faq",
+      "heading": "Pressure Washing in Greenville: Common Questions",
+      "faqs": [
+        {
+          "question": "How much does pressure washing cost in Greenville?",
+          "answer": "Most Greenville homes fall in the $200–$900 range. The exact number depends on property size, condition, and access, so a quote request gets you a real figure instead of a national average."
+        },
+        {
+          "question": "How fast will someone contact me in Greenville?",
+          "answer": "Requests are reviewed and routed the same business day. A local pressure washing provider covering Greenville typically reaches out within one business day."
+        },
+        {
+          "question": "Is this site the company doing the work?",
+          "answer": "No — this is a quote-request service. It connects Greenville homeowners with an independent local provider. Scheduling, pricing, insurance, and the work itself are handled by that provider, and you can verify their credentials before committing."
+        },
+        {
+          "question": "What areas around Greenville are covered?",
+          "answer": "Coverage centers on Greenville, South Carolina, including Mauldin, Simpsonville, Taylors. If your address is outside the area, you are told up front instead of having your details passed around."
+        },
+        {
+          "question": "Am I committing to anything by requesting a quote?",
+          "answer": "No. A quote request is free and carries no obligation. You compare the quote, ask questions, and decide your own timeline — or walk away."
+        }
+      ]
+    }
+  ]
+}

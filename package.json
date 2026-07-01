@@ -1,0 +1,41 @@
+{
+  "name": "local-leadgen",
+  "version": "0.1.0",
+  "description": "Reference implementation of a programmatic local-SEO page engine: page-matrix generation, deterministic content assembly, schema.org JSON-LD, sitemap chunking, and lead routing for the rank-and-rent model.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Denis Redzic",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/redzicdenis08-afk/local-leadgen.git"
+  },
+  "keywords": [
+    "seo",
+    "programmatic-seo",
+    "local-seo",
+    "lead-generation",
+    "rank-and-rent",
+    "sitemap",
+    "json-ld",
+    "schema-org"
+  ],
+  "main": "dist/src/index.js",
+  "types": "dist/src/index.d.ts",
+  "bin": {
+    "local-leadgen": "dist/src/cli.js"
+  },
+  "files": [
+    "dist/src"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "npm run build && node --test dist/tests/*.test.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "typescript": "^5.4.0"
+  }
+}

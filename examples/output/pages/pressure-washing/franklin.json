@@ -1,0 +1,80 @@
+{
+  "entry": {
+    "serviceSlug": "pressure-washing",
+    "citySlug": "franklin",
+    "path": "/pressure-washing/franklin",
+    "canonicalUrl": "https://example.com/pressure-washing/franklin",
+    "title": "Franklin, TN Pressure Washing Quotes | No-Commitment Estimates",
+    "metaDescription": "Looking for pressure washing in Franklin? Serving a community of 85,000 residents with transparent $200–$900 pricing and free quotes.",
+    "h1": "Pressure Washing in Franklin, TN",
+    "templateIds": {
+      "title": 5,
+      "meta": 2,
+      "h1": 0
+    },
+    "keywords": [
+      "pressure washing",
+      "power washing",
+      "driveway cleaning"
+    ]
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "heading": "Pressure Washing in Franklin, TN",
+      "paragraphs": [
+        "Finding reliable pressure washing in Franklin should not require ten phone calls. Rapid new construction means many homes are on their first maintenance cycle. Submit one request and get connected with local help — typical pricing runs $200 to $900."
+      ]
+    },
+    {
+      "id": "service-details",
+      "heading": "What Pressure Washing in Franklin Involves",
+      "paragraphs": [
+        "Driveway, siding, deck, and concrete cleaning using pressure or soft-wash methods matched to the surface. In Franklin, the final price depends on property size, condition, and access — the $200–$900 band covers the large majority of local jobs."
+      ],
+      "items": [
+        "pressure washing in Franklin, TN",
+        "power washing in Franklin, TN",
+        "driveway cleaning in Franklin, TN"
+      ]
+    },
+    {
+      "id": "local-trust",
+      "heading": "Local to Franklin, Tennessee",
+      "paragraphs": [
+        "This service covers Franklin and the surrounding Tennessee area, including Brentwood, Spring Hill, Nolensville. Rapid new construction means many homes are on their first maintenance cycle."
+      ],
+      "items": [
+        "Serving a community of 85,000 residents",
+        "Typical Franklin pricing shown before you submit ($200–$900)",
+        "Free quote request, no commitment"
+      ]
+    },
+    {
+      "id": "faq",
+      "heading": "Pressure Washing in Franklin: Common Questions",
+      "faqs": [
+        {
+          "question": "What areas around Franklin are covered?",
+          "answer": "Coverage centers on Franklin, Tennessee, including Brentwood, Spring Hill, Nolensville. If your address is outside the area, you are told up front instead of having your details passed around."
+        },
+        {
+          "question": "Am I committing to anything by requesting a quote?",
+          "answer": "No. A quote request is free and carries no obligation. You compare the quote, ask questions, and decide your own timeline — or walk away."
+        },
+        {
+          "question": "How much does pressure washing cost in Franklin?",
+          "answer": "Most Franklin homes fall in the $200–$900 range. The exact number depends on property size, condition, and access, so a quote request gets you a real figure instead of a national average."
+        },
+        {
+          "question": "How fast will someone contact me in Franklin?",
+          "answer": "Requests are reviewed and routed the same business day. A local pressure washing provider covering Franklin typically reaches out within one business day."
+        },
+        {
+          "question": "Is this site the company doing the work?",
+          "answer": "No — this is a quote-request service. It connects Franklin homeowners with an independent local provider. Scheduling, pricing, insurance, and the work itself are handled by that provider, and you can verify their credentials before committing."
+        }
+      ]
+    }
+  ]
+}

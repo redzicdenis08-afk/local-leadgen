@@ -1,0 +1,80 @@
+{
+  "entry": {
+    "serviceSlug": "window-cleaning",
+    "citySlug": "franklin",
+    "path": "/window-cleaning/franklin",
+    "canonicalUrl": "https://example.com/window-cleaning/franklin",
+    "title": "Window Cleaning in Franklin, Tennessee — Request a Free Quote",
+    "metaDescription": "Franklin homeowners: get window cleaning quotes without the phone-tag. Local pricing runs $150–$600. Free, fast, no obligation.",
+    "h1": "Get Window Cleaning Pricing in Franklin, Tennessee",
+    "templateIds": {
+      "title": 4,
+      "meta": 3,
+      "h1": 3
+    },
+    "keywords": [
+      "window cleaning",
+      "window washing",
+      "residential window cleaning"
+    ]
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "heading": "Get Window Cleaning Pricing in Franklin, Tennessee",
+      "paragraphs": [
+        "Franklin is home to 85,000 people, and demand for window cleaning here is steady year-round. Hard-water spots etch into glass if left through more than one season. Local pricing usually lands between $150 and $600 depending on scope."
+      ]
+    },
+    {
+      "id": "service-details",
+      "heading": "What Window Cleaning in Franklin Involves",
+      "paragraphs": [
+        "Interior and exterior window washing, including screens, tracks, and hard-water spot removal. In Franklin, the final price depends on property size, condition, and access — the $150–$600 band covers the large majority of local jobs."
+      ],
+      "items": [
+        "window cleaning in Franklin, TN",
+        "window washing in Franklin, TN",
+        "residential window cleaning in Franklin, TN"
+      ]
+    },
+    {
+      "id": "local-trust",
+      "heading": "Local to Franklin, Tennessee",
+      "paragraphs": [
+        "Requests from Franklin (Westhaven, Cool Springs and beyond) are matched to providers who actually work in the area, including Brentwood, Spring Hill, Nolensville. Pollen season leaves a visible yellow film on windows and siding every spring."
+      ],
+      "items": [
+        "Serving a community of 85,000 residents",
+        "Typical Franklin pricing shown before you submit ($150–$600)",
+        "Free quote request, no commitment"
+      ]
+    },
+    {
+      "id": "faq",
+      "heading": "Window Cleaning in Franklin: Common Questions",
+      "faqs": [
+        {
+          "question": "Am I committing to anything by requesting a quote?",
+          "answer": "No. A quote request is free and carries no obligation. You compare the quote, ask questions, and decide your own timeline — or walk away."
+        },
+        {
+          "question": "How much does window cleaning cost in Franklin?",
+          "answer": "Most Franklin homes fall in the $150–$600 range. The exact number depends on property size, condition, and access, so a quote request gets you a real figure instead of a national average."
+        },
+        {
+          "question": "How fast will someone contact me in Franklin?",
+          "answer": "Requests are reviewed and routed the same business day. A local window cleaning provider covering Franklin typically reaches out within one business day."
+        },
+        {
+          "question": "Is this site the company doing the work?",
+          "answer": "No — this is a quote-request service. It connects Franklin homeowners with an independent local provider. Scheduling, pricing, insurance, and the work itself are handled by that provider, and you can verify their credentials before committing."
+        },
+        {
+          "question": "What areas around Franklin are covered?",
+          "answer": "Coverage centers on Franklin, Tennessee, including Brentwood, Spring Hill, Nolensville. If your address is outside the area, you are told up front instead of having your details passed around."
+        }
+      ]
+    }
+  ]
+}

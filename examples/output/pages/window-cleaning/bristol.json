@@ -1,0 +1,80 @@
+{
+  "entry": {
+    "serviceSlug": "window-cleaning",
+    "citySlug": "bristol",
+    "path": "/window-cleaning/bristol",
+    "canonicalUrl": "https://example.com/window-cleaning/bristol",
+    "title": "Window Cleaning Bristol CT: Get a Same-Day Quote",
+    "metaDescription": "Get matched with window cleaning help in Bristol, Connecticut. One short form, typical pricing $150–$600, reviewed the same business day.",
+    "h1": "Get Window Cleaning Pricing in Bristol, Connecticut",
+    "templateIds": {
+      "title": 2,
+      "meta": 5,
+      "h1": 3
+    },
+    "keywords": [
+      "window cleaning",
+      "window washing",
+      "residential window cleaning"
+    ]
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "heading": "Get Window Cleaning Pricing in Bristol, Connecticut",
+      "paragraphs": [
+        "If you are comparing window cleaning options in Bristol, Connecticut, this page is built for you. Hard-water spots etch into glass if left through more than one season. Typical Bristol jobs run $150 to $600, and a quote request takes about thirty seconds."
+      ]
+    },
+    {
+      "id": "service-details",
+      "heading": "What Window Cleaning in Bristol Involves",
+      "paragraphs": [
+        "Interior and exterior window washing, including screens, tracks, and hard-water spot removal. Most Bristol homeowners pay between $150 and $600; larger properties or heavy buildup push toward the top of the range."
+      ],
+      "items": [
+        "window cleaning in Bristol, CT",
+        "window washing in Bristol, CT",
+        "residential window cleaning in Bristol, CT"
+      ]
+    },
+    {
+      "id": "local-trust",
+      "heading": "Local to Bristol, Connecticut",
+      "paragraphs": [
+        "Coverage is local by design: Bristol requests go to Bristol-area providers, not a national call center, including Plainville, Terryville, Burlington. New England winters mean ice dams for any house with a clogged gutter."
+      ],
+      "items": [
+        "Serving a community of 61,000 residents",
+        "Typical Bristol pricing shown before you submit ($150–$600)",
+        "Free quote request, no commitment"
+      ]
+    },
+    {
+      "id": "faq",
+      "heading": "Window Cleaning in Bristol: Common Questions",
+      "faqs": [
+        {
+          "question": "Is this site the company doing the work?",
+          "answer": "No — this is a quote-request service. It connects Bristol homeowners with an independent local provider. Scheduling, pricing, insurance, and the work itself are handled by that provider, and you can verify their credentials before committing."
+        },
+        {
+          "question": "What areas around Bristol are covered?",
+          "answer": "Coverage centers on Bristol, Connecticut, including Plainville, Terryville, Burlington. If your address is outside the area, you are told up front instead of having your details passed around."
+        },
+        {
+          "question": "Am I committing to anything by requesting a quote?",
+          "answer": "No. A quote request is free and carries no obligation. You compare the quote, ask questions, and decide your own timeline — or walk away."
+        },
+        {
+          "question": "How much does window cleaning cost in Bristol?",
+          "answer": "Most Bristol homes fall in the $150–$600 range. The exact number depends on property size, condition, and access, so a quote request gets you a real figure instead of a national average."
+        },
+        {
+          "question": "How fast will someone contact me in Bristol?",
+          "answer": "Requests are reviewed and routed the same business day. A local window cleaning provider covering Bristol typically reaches out within one business day."
+        }
+      ]
+    }
+  ]
+}
