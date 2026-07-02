@@ -1,0 +1,35 @@
+name: Feature request
+description: Suggest a focused improvement to the public reference implementation.
+title: "feat: "
+labels: ["enhancement", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Keep requests scoped to this public repo. Do not include private production data, customer details, keys, or internal deployment URLs.
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Use case
+      description: What problem would this solve?
+      placeholder: I want to...
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed behavior
+      description: What should change?
+      placeholder: Add a CLI flag that...
+    validations:
+      required: true
+  - type: dropdown
+    id: contribution
+    attributes:
+      label: Are you open to contributing it?
+      options:
+        - "Yes"
+        - "Maybe"
+        - "No"
+    validations:
+      required: false

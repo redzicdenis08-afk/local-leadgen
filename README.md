@@ -204,6 +204,22 @@ This reference implementation is the deterministic core. The production operatio
 
 Issues and PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Run the whole suite with `npm test`.
 
+## Demo script
+
+A short demo plan for launch screenshots and GIFs lives in [docs/DEMO.md](docs/DEMO.md).
+
+## Star this repo if
+
+- You build in this niche and want a small reference engine instead of a black-box demo.
+- You want synthetic examples that run locally.
+- You care about readable implementation details, not just screenshots.
+
+Launch notes and topic suggestions live in [docs/LAUNCH_PACK.md](docs/LAUNCH_PACK.md).
+
+## Repository health
+
+This repo now includes GitHub issue templates, a PR checklist, Dependabot checks for GitHub Actions, and a public boundary checklist in [docs/REPO_HEALTH.md](docs/REPO_HEALTH.md).
+
 ## License
 
 [MIT](LICENSE) © Denis Redzic

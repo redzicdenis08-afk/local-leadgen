@@ -1,0 +1,43 @@
+name: Bug report
+description: Report a reproducible problem in the public reference implementation.
+title: "bug: "
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting this. Do not paste secrets, customer data, production transcripts, API keys, private URLs, or real lead lists.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What broke?
+      description: Describe the visible behavior and the expected behavior.
+      placeholder: The command returned..., but I expected...
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How to reproduce
+      description: Include the smallest synthetic input or command that triggers it.
+      placeholder: |
+        1. Run ...
+        2. Open ...
+        3. See ...
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Runtime, OS, package version, and any relevant CLI flags.
+      placeholder: Python 3.11 on Windows, or Node 20 on Linux
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: Extra context
+      description: Sanitized logs or screenshots only.
+    validations:
+      required: false
