@@ -1,0 +1,14 @@
+﻿{
+  "brand": "Apex Pro Cleaning",
+  "phone": "+18655550100",
+  "services": [
+    {"name": "Roof Cleaning", "slug": "roof-cleaning"},
+    {"name": "Gutter Cleaning", "slug": "gutter-cleaning"},
+    {"name": "Pressure Washing", "slug": "pressure-washing"}
+  ],
+  "cities": [
+    {"name": "Knoxville", "state": "TN", "slug": "knoxville-tn"},
+    {"name": "Maryville", "state": "TN", "slug": "maryville-tn"},
+    {"name": "Oak Ridge", "state": "TN", "slug": "oak-ridge-tn"}
+  ]
+}
