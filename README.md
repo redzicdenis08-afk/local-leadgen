@@ -223,3 +223,7 @@ This repo now includes GitHub issue templates, a PR checklist, Dependabot checks
 ## License
 
 [MIT](LICENSE) © Denis Redzic
+
+
+## Schema Templating
+See [docs/CUSTOM_TEMPLATING.md](docs/CUSTOM_TEMPLATING.md) for custom layout template rules.
